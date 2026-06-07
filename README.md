@@ -188,7 +188,7 @@
     ├── anomalies_detected.csv
     ├── model_metrics.csv
     ├── forecast_predictions.csv
-    └── forecast.csv                 # вывод pipeline.py
+    └── forecast.csv                 
 ```
 
 ---
